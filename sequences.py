@@ -11,6 +11,7 @@ def print_fibonacci(length):
             fib_sequence.append(next_number)
         print(fib_sequence)
 
+
 # Test cases
 print_fibonacci(0)   # Output: []
 print_fibonacci(1)   # Output: [0]
