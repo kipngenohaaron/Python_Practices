@@ -30,3 +30,15 @@ while count < 5:
 # Count is: 3
 # Count is: 4
 
+#Nested loop
+for i in range(3):
+    for j in range(2):
+        print(i, j)
+
+# Output:
+# 0 0
+# 0 1
+# 1 0
+# 1 1
+# 2 0
+# 2 1
