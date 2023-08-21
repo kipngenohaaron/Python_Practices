@@ -47,11 +47,14 @@ if (letter == "a" or
 else:
     # Begin "else" block
     print("not a vowel.")
-   
-# x = 0
 
-# while x < 10:
-#     print("so many loops")
+ #Example  
+x = 0
+
+while x < 10:
+    print("so many loops")
+    # output: infinite
+
 name = "Steven"
 
 print(f"Hi, {name}." if name != "Steven" else f"Goodbye, {name}.")#Goodbye, Steven.
