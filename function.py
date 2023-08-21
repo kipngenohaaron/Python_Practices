@@ -11,4 +11,4 @@ def add_integers(a, b, c):
 
 # Test the function
 result = add_integers(5, 7, 8)
-print(result)  # Output: 12
+print(result)  # Output: 20
