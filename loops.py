@@ -20,3 +20,7 @@ while count < 5:
 # Count is: 2
 # Count is: 3
 # Count is: 4
+
+names = ["ann","john","maggie","allan"]
+for name in names:
+        print(name)
