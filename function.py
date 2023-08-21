@@ -6,9 +6,9 @@ print(greetings(message))  # Output: "Hello, Kipngenoh!"
 
 
 #Adding integers
-def add_integers(a, b):
-    return a + b
+def add_integers(a, b, c):
+    return a + b + c
 
 # Test the function
-result = add_integers(5, 7)
+result = add_integers(5, 7, 8)
 print(result)  # Output: 12
