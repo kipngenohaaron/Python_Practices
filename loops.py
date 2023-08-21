@@ -7,6 +7,15 @@ for fruit in fruits:
 # apple
 # banana
 # cherry
+names = ["Kipngenoh","Exalted","Rotich","Itembe"]
+for name in names:
+        print(name)
+
+# Output:
+# Kipngenoh
+# Exalted
+# Rotich
+# Itembe
 
 # Example using a while loop
 count = 0
@@ -21,6 +30,3 @@ while count < 5:
 # Count is: 3
 # Count is: 4
 
-names = ["ann","john","maggie","allan"]
-for name in names:
-        print(name)
